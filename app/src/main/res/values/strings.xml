@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FixWord</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="your_guess">Your Guess</string>
+    <string name="x">X</string>
+    <string name="close">Close</string>
+    <string name="v_1_0">V 1.0</string>
+    <string name="fixword">FixWord</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+</resources>
